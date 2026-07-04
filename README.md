@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+Flutter+Full+Stack+App+Developer;%F0%9F%A4%96+Machine+Learning+%2F+AI+Engineer;Building+beautiful%2C+scalable+mobile+apps;Exploring+AI+Integrations+%26+Payment+Gateways;Available+for+Freelance+%26+Collab+Projects+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=SameeerMAlik&label=Profile%20Views&color=8E2DE2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/SameeerMAlik?label=Followers&style=for-the-badge&color=00F7FF&logo=github" />
+<img align="center" src="https://komarev.com/ghpvc/?username=SameeerMAlik&label=Profile%20Views&color=8E2DE2&style=for-the-badge" />
+<img align="center" src="https://img.shields.io/github/followers/SameeerMAlik?label=Followers&style=for-the-badge&color=00F7FF&logo=github" />
 
 </div>
 
