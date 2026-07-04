@@ -87,8 +87,9 @@
 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SameeerMAlik/SameeerMAlik/main/github-metrics.svg" alt="contribution metrics" width="100%" />
+  <img src="https://ghchart.rshah.org/SameeerMAlik" alt="GitHub Contribution Graph" width="100%" />
 </p>
+<br>
 <br>
 
 ## 🌐 Connect with Me
