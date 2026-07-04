@@ -111,7 +111,6 @@
   <img src="https://raw.githubusercontent.com/SameeerMAlik/SameeerMAlik/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ℹ️ This needs a one-time GitHub Action setup ("snk") to go live — let me know if you'd like that workflow file.
 
 <br>
 
