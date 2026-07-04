@@ -84,13 +84,11 @@
 
 <br>
 
-## 🐍 Contribution Activity
+📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SameeerMAlik/SameeerMAlik/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SameeerMAlik/SameeerMAlik/main/github-metrics.svg" alt="contribution metrics" width="100%" />
 </p>
-
-
 <br>
 
 ## 🌐 Connect with Me
