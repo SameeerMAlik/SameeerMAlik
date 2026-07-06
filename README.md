@@ -81,15 +81,6 @@
 | 🏥 **SD Hospital Website** | HTML + JS + Firebase | Real-time doctor appointment booking |
 
 </div>
-
-<br>
-
-📈 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/SameeerMAlik" alt="GitHub Contribution Graph" width="100%" />
-</p>
-<br>
 <br>
 
 ## 🌐 Connect with Me
