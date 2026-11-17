@@ -6,6 +6,16 @@
 </div>
 
 <br>
+ <div align="center">
+
+<a href="https://sameerr56-portfolio.vercel.app/" target="_blank">
+  
+  <img src="https://img.shields.io/badge/🚀_VISIT_LIVE_PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br>
 
 ## 🎯 About Me
 
